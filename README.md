@@ -27,5 +27,8 @@ The below table and chart shows the detail of the app.
 ![WeatherPy_vacation_map](https://user-images.githubusercontent.com/78656720/113492947-4dc3e600-94a9-11eb-9966-9666c60f8459.png)
 
 ### Vacation Itinerary 
-The third and final step of this project is to creat a travel itinerary that shows the travel route between the preffererd cities chosen from the customer’s possible travel destinations. Then, we create a pop-up marker for each city on the itinerary using the Google Directions API 
+The third and final step of this project is to creat a travel itinerary that shows the travel route between the preffererd cities chosen from the customer’s possible travel destinations. Then, we create a pop-up marker for each city on the itinerary using the Google Directions API. The Below chart shows the detail of the app. 
+
+![WeatherPy_travel_map](https://user-images.githubusercontent.com/78656720/113493267-dfccee00-94ab-11eb-866b-469f9bef0d12.png)
+
 
