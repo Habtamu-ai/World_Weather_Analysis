@@ -31,4 +31,10 @@ The third and final step of this project is to creat a travel itinerary that sho
 
 ![WeatherPy_travel_map](https://user-images.githubusercontent.com/78656720/113493267-dfccee00-94ab-11eb-866b-469f9bef0d12.png)
 
+![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/78656720/113493303-1e62a880-94ac-11eb-9b0d-464a19851011.png)
+
+## Summary
+By generating random Latitudes and Longtiudes coardinates we retrive create a city dataframe, containing current weather description. Then Using the data frame and prompt input of cutomer preferences we created a data frame containing city, weather description, hotels name ,and we create a Customer Travel Destinations Map . Finally using the preferences of our cutomers we create a Travel Itinerary Map on selected cities and a pop-up marker for each city on the itinerary using the Google Directions API.
+
+
 
