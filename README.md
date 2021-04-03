@@ -19,7 +19,6 @@ description and created the below dataframe.
 
 ### Vacation Search
 
-
 By using  input statment we retrive cities that are according to cusomer preferencs.We also idetify potential tourist destinations and the nearby hotels. Finally, with use a a marker layer map with pop-up markers to show cities with the weather descriptin, maximum and minumum tepratures and nearby hotels.
 The below table and chart shows the detail of the app.
 
@@ -28,4 +27,5 @@ The below table and chart shows the detail of the app.
 ![WeatherPy_vacation_map](https://user-images.githubusercontent.com/78656720/113492947-4dc3e600-94a9-11eb-9966-9666c60f8459.png)
 
 ### Vacation Itinerary 
-Use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, create a marker layer map with a pop-up marker for each city on the itinerary.
+The third and final step of this project is to creat a travel itinerary that shows the travel route between the preffererd cities chosen from the customer’s possible travel destinations. Then, we create a pop-up marker for each city on the itinerary using the Google Directions API 
+
